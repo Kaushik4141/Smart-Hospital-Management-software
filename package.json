@@ -1,0 +1,17 @@
+{
+  "name": "smart-hospital-management",
+  "version": "1.0.0",
+  "description": "Real-time Smart Hospital Management System",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install --prefix backend && npm install --prefix frontend",
+    "dev": "concurrently \"npm:server --prefix backend\" \"npm:dev --prefix frontend\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
