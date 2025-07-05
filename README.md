@@ -20,7 +20,7 @@ To develop a comprehensive solution for managing hospital operations with a key 
 
 ## Technology Stack
 
--   **Frontend:** React.js, Vite, Material-UI
+-   **Frontend:** HTML,CSS,JavaScript
 -   **Backend:** Node.js, Express.js
 -   **Database:** MongoDB, Mongoose
 -   **Real-time Engine:** Socket.io
